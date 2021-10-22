@@ -1,2 +1,2 @@
 # Math-Resources
-Contains helpful resources for calculus I&II and discrete math I.
+Contains helpful resources for Calculus I/II and Discrete Math I.
